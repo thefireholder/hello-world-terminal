@@ -15,5 +15,6 @@ int main(int argc, const char * argv[]) {
     cout << "I am John Lee\n";
     cout << "another line for xcode github commit\n";
     
+    cout << "there is a fox image now\n";    
     return 0;
 }
